@@ -6,11 +6,11 @@
 	<date>2025-03-08T09:20:26Z</date>
 	<key>WorkspacePath</key>
 	<string>/Users/hyesu/Downloads/urdego_iOS/urdego.xcodeproj</string>
-    <key>NSCameraUsageDescription</key>
-    <string>이 앱은 카메라를 사용하여 사진을 촬영합니다.</string>
-    <key>NSPhotoLibraryUsageDescription</key>
-    <string>이 앱은 사진을 업로드하기 위해 갤러리에 접근합니다.</string>
-    <key>NSPhotoLibraryAddUsageDescription</key>
-    <string>이 앱은 사진을 저장하기 위해 갤러리에 접근합니다.</string>
+	<key>NSCameraUsageDescription</key>
+	<string>이 앱은 카메라를 사용해 사진을 촬영하여, 게임 내 문제(이미지/장소)로 활용됩니다.</string>
+	<key>NSPhotoLibraryUsageDescription</key>
+	<string>이 앱은 게임 내 출제할 문제(이미지/장소)를 업로드하기 위해 갤러리에 접근합니다.</string>
+	<key>NSPhotoLibraryAddUsageDescription</key>
+	<string>이 앱은 게임 내 출제할 문제(이미지/장소)를 저장하기 위해 갤러리에 접근합니다.</string>
 </dict>
 </plist>

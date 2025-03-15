@@ -134,7 +134,7 @@ struct ContentView: View {
             Color(uiColor: .white)
                 .edgesIgnoringSafeArea(.all)
             VStack {
-                CustomWebView(url: URL(string: "https://urdego.vercel.app")!)
+                CustomWebView(url: URL(string: "https://urdego.vercel.app/home")!)
             }
         }
     }
